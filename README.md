@@ -111,7 +111,9 @@ cv2.destroyAllWindows()
 ### i) Write the frame as JPG image
 </br>
 
+
 ![EX_2-Rot   Dis](https://github.com/ShriramGH/Image_Acqusition-_using_Web_Camera/assets/117991122/1f0a056a-ebd4-4d15-9938-ce3fda9782d6)
+
 
 </br>
 
@@ -119,13 +121,16 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 </br>
 
+
 ![DIP_Ex-2 Video](https://github.com/ShriramGH/Image_Acqusition-_using_Web_Camera/assets/117991122/bff7c763-a41e-41f0-ab8c-f2890baabeee)
+
 
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
+
 
 ![DIP_Ex-2_4 slice](https://github.com/ShriramGH/Image_Acqusition-_using_Web_Camera/assets/117991122/f29e1bb6-7e5a-4b9f-bc1a-709da3cd2a68)
 
@@ -135,6 +140,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 </br>
+
 
 ![Screenshot 2024-02-28 083041](https://github.com/ShriramGH/Image_Acqusition-_using_Web_Camera/assets/117991122/bea65a58-7f78-4111-9124-a6c7ccb1742c)
 
